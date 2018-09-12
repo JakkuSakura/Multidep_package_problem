@@ -1,4 +1,4 @@
-package top.jackhack.mutidep;
+package top.jackhack.multidep;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package top.jackhack.mutidep;
+package top.jackhack.multidep;
 
 import com.google.common.collect.ArrayListMultimap;
 import com.google.common.collect.Multimap;

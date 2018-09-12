@@ -1,4 +1,4 @@
-package top.jackhack.mutidep;
+package top.jackhack.multidep;
 
 public class State {
     public int added;
